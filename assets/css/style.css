@@ -1,7 +1,7 @@
 :root{
     --dark-blue: #212529;
     --gray: #707070;
-    --green: #28A745;
+    --green: #a2e6ab;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 .logo { 
-    width: 86px;
+    width: 150px;
 }
 
 .font-card {
@@ -17,7 +17,7 @@ body {
     font: size 16px;
 }
 
-.green{
+.green {
     color:var(--green)
 }
 
