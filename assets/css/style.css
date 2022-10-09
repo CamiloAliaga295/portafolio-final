@@ -1,0 +1,37 @@
+:root{
+    --dark-blue: #212529;
+    --gray: #707070;
+    --green: #28A745;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo { 
+    width: 86px;
+}
+
+.font-card {
+    color: var(--gray)
+    font: size 16px;
+}
+
+.green{
+    color:var(--green)
+}
+
+
+nav {
+    background-color: var(--green)
+}
+
+
+.contact {
+    background-color: var(--green);
+    color: white
+}
+
+.text-footer {
+    color:var(--gray)
+}
